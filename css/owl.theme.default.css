@@ -1,0 +1,99 @@
+/**
+ * Owl Carousel v2.3.3
+ * Copyright 2013-2018 David Deutsch
+ * Licensed under: SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE
+ */
+/*
+ * 	Default theme - Owl Carousel CSS File
+ */
+ .owl-theme .owl-nav {
+    margin-top: 10px;
+    text-align: center;
+    -webkit-tap-highlight-color: transparent; }
+    .owl-theme .owl-nav [class*='owl-'] {
+      color: #FFF;
+      font-size: 14px;
+      margin: 5px;
+      padding: 4px 7px;
+      background: #D6D6D6;
+      display: inline-block;
+      cursor: pointer;
+      border-radius: 3px; }
+      .owl-theme .owl-nav [class*='owl-']:hover {
+        background: #869791;
+        color: #FFF;
+        text-decoration: none; }
+    .owl-theme .owl-nav .disabled {
+      opacity: 0.5;
+      cursor: default; }
+  
+  .owl-theme .owl-nav.disabled + .owl-dots {
+    margin-top: 10px; }
+  
+  .owl-theme .owl-dots {
+    text-align: center;
+    -webkit-tap-highlight-color: transparent; }
+    .owl-theme .owl-dots .owl-dot {
+      display: inline-block;
+      zoom: 1;
+      *display: inline; }
+      .owl-theme .owl-dots .owl-dot span {
+        width: 10px;
+        height: 10px;
+        margin: 5px 7px;
+        background: #D6D6D6;
+        display: block;
+        -webkit-backface-visibility: visible;
+        transition: opacity 200ms ease;
+        border-radius: 30px; }
+      .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+        background: #869791; }
+  Chat
+  
+  New Conversation
+  
+  🤓 Explain a complex thing
+  
+  Explain Artificial Intelligence so that I can explain it to my six-year-old child.
+  
+  
+  🧠 Get suggestions and create new ideas
+  
+  Please give me the best 10 travel ideas around the world
+  
+  
+  💭 Translate, summarize, fix grammar and more…
+  
+  Translate "I love you" French
+  
+  
+  GPT-4o Mini
+  Hello, how can I help you today?
+  Explain Artificial Intelligence so that I can explain it to my six-year-old child.
+  GPT-4o Mini
+  Sure! You can explain Artificial Intelligence (AI) to your six-year-old child like this:
+  "Okay, imagine if there was a really smart robot or computer that can learn and think like people do. This smart machine can help us do lots of things! For example, it can play games with us, answer questions, or even tell us stories. 
+  Just like how you learn new things by practicing—like riding a bike or playing a game—AI learns by looking at lots and lots of information. It tries to understand them, like how you understand what your favorite toy does.
+  So, when you talk to a smart speaker or play a video game that feels like it knows what you want, that's AI at work! It's like having a super helpful friend who can think and learn!"
+  GPT-4o Mini
+  coin image
+  9
+  Upgrade
+  
+  
+  
+  
+  Ask me anything...
+  
+  
+  
+  Powered by AITOPIA 
+  Chat
+  Ask
+  Search
+  Write
+  Image
+  ChatFile
+  Vision
+  Full Page
+  
